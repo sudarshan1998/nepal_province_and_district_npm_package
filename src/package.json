@@ -1,7 +1,7 @@
 {
-  "name": "nepal-geodata",
+  "name": "@utils/nepal-geodata",
   "version": "1.0.0",
-  "description": "List the Nepals provinces and discticts accrdingly",
+  "description": "List the Nepals provinces, discticts and municipalities",
   "main": "index.js",
   "scripts": {
     "test": "test"
