@@ -15,7 +15,7 @@ Nepal GeoData is a Node.js package that provides geographical data related to Ne
 You can install Nepal GeoData via npm:
 
 ```bash
-npm install nepal-geodata
+npm i @nepalutils/nepal-geodata
 Usage
 Here's an example of how to use Nepal GeoData in your Node.js project:
 
