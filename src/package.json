@@ -1,6 +1,6 @@
 {
-  "name": "@webutils/nepal-geodata",
-  "version": "1.0.0",
+  "name": "@nepalutils/nepal-geodata",
+  "version": "1.0.1",
   "description": "List the Nepals provinces, districts and municipalities",
   "main": "index.js",
   "scripts": {
