@@ -21,7 +21,7 @@ Here's an example of how to use Nepal GeoData in your Node.js project:
 
 javascript
 Copy code
-const nepalGeoData = require('@webutils/nepal-geodata');
+const nepalGeoData = require('@nepalutils/nepal-geodata"');
 
 // Get provinces with districts and municipalities in English
 const englishData = nepalGeoData.main('english');
