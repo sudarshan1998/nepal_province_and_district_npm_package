@@ -1,0 +1,26 @@
+{
+  "name": "nepal-geodata",
+  "version": "1.0.0",
+  "description": "List the Nepals provinces and discticts accrdingly",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudarshan1998/nepal_province_and_district_npm_package.git"
+  },
+  "keywords": [
+    "nepal",
+    "province",
+    "district",
+    "list",
+    "get"
+  ],
+  "author": "sudarshan dhakal sudarshandhakal21@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudarshan1998/nepal_province_and_district_npm_package/issues"
+  },
+  "homepage": "https://github.com/sudarshan1998/nepal_province_and_district_npm_package#readme"
+}
